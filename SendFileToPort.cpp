@@ -7,7 +7,6 @@
 #include <unistd.h>
 #include <chrono>
 #include <thread>
-#include "SendFileToPort.h"
 
 #define ACK 0x06
 #define DONE 0x11
